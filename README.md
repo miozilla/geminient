@@ -1,4 +1,4 @@
-# geminient
+# geminient 🥁👨‍⚕️🧁
 geminient : Cymbal Foods Manufacturing AI Assistant # Gemini Enterprise # Agent # Google Drive # Cloud Storage # Calendar # NotebookLM
 
 
